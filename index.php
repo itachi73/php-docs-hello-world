@@ -1,6 +1,6 @@
 <?php
 
-echo "Hello World, SH!";
+echo "<center><h1>Hello World, SH!<h1></center>";
 
 echo "<script>alert('Hi')</script>";
 
