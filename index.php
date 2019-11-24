@@ -2,4 +2,6 @@
 
 echo "Hello World, SH!";
 
-echo "<script>alert('Hi')</script>
+echo "<script>alert('Hi')</script>";
+
+?>
