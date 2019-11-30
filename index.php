@@ -2,6 +2,6 @@
 
 echo "<center><h1>Hello World, SH!<h1></center>";
 
-echo "<script>alert('Hi')</script>";
+echo "<script>alert('tachi')</script>";
 
 ?>
