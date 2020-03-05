@@ -1,7 +1,7 @@
 <?php
 
-echo "<center><h1>Hello World, SH!<h1></center>";
+echo "<center><h1>Badr POC!<h1></center>";
 
-echo "<script>alert('tachi')</script>";
+echo "<script>alert('Badr')</script>";
 
 ?>
